@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=4rvnd&theme=merko&hide_rank=false&hide_title=false&count_private=true&include_all_commits=true&show_icons=true&hide=issues)
+<!-- ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=4rvnd&theme=merko&hide_rank=false&hide_title=false&count_private=false&include_all_commits=true&show_icons=true&hide=issues,contribs,prs) -->
+
+
 
 - 🔭 I’m working on building a FAAS service which can theoritically handle upto 1 million hits per second
 - 💻 I’m learning GoLang
